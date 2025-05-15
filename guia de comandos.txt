@@ -1,0 +1,9 @@
+git init (cria o repositório local)
+
+git remote add origin 'Link do GitHub' (linka o repositório local no remoto)
+
+git add . (adiciona todos os itens da pasta no repositório local)
+
+git commit -n "Mensagem de commit" (faz o commit)
+
+git push origin main (envia o commit para o repositório remoto)
