@@ -7,3 +7,7 @@ git add . (adiciona todos os itens da pasta no repositório local)
 git commit -n "Mensagem de commit" (faz o commit)
 
 git push origin main (envia o commit para o repositório remoto)
+
+*agora estamos na branch nova
+
+git checkout -b dev
